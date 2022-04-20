@@ -1,4 +1,4 @@
-# PropShop Ecommerce Website With Django + React
+# TechShop Ecommerce Website With Django + React
 
 Live Demo can be viewed 
 
